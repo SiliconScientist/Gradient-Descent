@@ -14,6 +14,35 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+// A "bigger, labeled" graph configuration for readability
+const BIG_GRAPH = Component.Graph({
+  // Local graph appears on individual notes (neighbors/backlinks feel)
+  localGraph: {
+    drag: true,
+    zoom: true,
+    depth: 2,
+    scale: 1.15,        // bigger initial zoom
+    repelForce: 9.87,    // spread nodes out more
+    centerForce: 0.33,  // keep network centered
+    linkDistance: 55,   // increase spacing to reduce label overlap
+    fontSize: 1.05,     // show readable labels next to nodes
+    opacityScale: 3.0, // keep labels visible at wider zooms
+  },
+
+  // Global graph shows the whole vault connections
+  globalGraph: {
+    drag: true,
+    zoom: true,
+    depth: -1,          // global graph
+    scale: 1.0,         // slightly zoomed in
+    repelForce: 9.87,   // spread nodes out more (important for global)
+    centerForce: 0.33,
+    linkDistance: 75,   // more spacing for dense graphs
+    fontSize: 1.0,      // readable labels
+    opacityScale: 3.0,
+  },
+})
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -24,6 +53,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+
+    // Put the graph in the center column, above the content.
+    // DesktopOnly keeps mobile from getting swamped.
+    Component.DesktopOnly(BIG_GRAPH),
   ],
   left: [
     Component.PageTitle(),
@@ -41,7 +74,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    // Graph removed from sidebar (now center)
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
