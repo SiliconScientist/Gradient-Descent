@@ -3,6 +3,7 @@ type: character
 status: alive
 ---
 ## Facts
+- Member of [[The Erasers]]
 - Shot [[Finnerdy]]
 
 ## Unverified
