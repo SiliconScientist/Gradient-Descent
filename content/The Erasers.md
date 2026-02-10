@@ -1,0 +1,18 @@
+---
+type: unit
+---
+- Members:
+	- [[Mac Philis]]:
+	- [[Gebb Henderson]]:
+	- [[Jarek Dysar]]:
+	- [[Dr. Faelin Leifson]]:
+	- [[Marek Sol]]
+	- [[Dima Darkstar]]
+	- [[Reesha]]
+	- [[Sinead]]
+	- [[Dr. Clarise Schneider]]
+		- Had a favorite professor at University, [[Dr. Anastasia Kurdia]]
+	- [[Finnerdy]]:
+- Property:
+	- [[The Penetrator]]
+	- [[The Dinghy]]
