@@ -11,7 +11,6 @@ type: unit
 	- [[Reesha]]
 	- [[Sinead]]
 	- [[Dr. Clarise Schneider]]
-		- Had a favorite professor at University, [[Dr. Anastasia Kurdia]]
 	- [[Finnerdy]]:
 - Property:
 	- [[The Penetrator]]
