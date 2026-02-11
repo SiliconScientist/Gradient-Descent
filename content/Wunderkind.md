@@ -6,4 +6,11 @@ Description:
 - A boy
 
 ## Unverified
-- [[Arcady]] claims the boy has tools to help kill [[Monarch]]
+- This boy has tools to help kill [[Monarch]]. 
+	- Sources:
+		- Arcady
+	- Denied by:
+- This boy lives in [[Section 3.4 — ???]]
+	- Sources:
+		- Arcady
+- 
