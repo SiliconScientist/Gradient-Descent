@@ -1,3 +1,4 @@
 ---
 type: location
+scale: zone
 ---

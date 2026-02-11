@@ -1,8 +1,9 @@
 ---
 type: location
+scale: zone
 ---
-## Facts
-- There's a room designated as "Section 3.3: pseudo-flesh farm"
+## Rooms
+- [[Section 3.3 — Pseudo-Flesh Farm]]
 
 ## Unverified
 - Base of operations for [[Project Endymion]]
