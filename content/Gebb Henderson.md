@@ -4,7 +4,9 @@ status: alive
 ---
 ## Facts
 - Member of [[The Erasers]]
-- Shot [[Finnerdy]]
+- Formerly worked at [[The Deep|Cloudbank Facility]], studying experimental terraforming AI
+	- Sources:
+		- Papers found on [[Floor 1 — Reception]]
 
 ## Unverified
-- Geb Henderson was involved with CloudBank facilities, testing out experimental terraforming AI.
+- 

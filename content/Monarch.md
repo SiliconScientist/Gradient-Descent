@@ -9,3 +9,8 @@ status: alive
 	- Manipulate communication channels
 	- Feed video in visor HUDs
 - Create [[Infiltrators]]
+
+## Unverified
+- Is working on [[Project Endymion]]
+	- Sources:
+		- Finnerdy via Monarch

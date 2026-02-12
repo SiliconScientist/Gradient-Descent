@@ -9,7 +9,7 @@ status: alive
 - Has a frightened condition of when his medical patients die on him
 
 ## Incomplete:
-- Did contractual ambulance work at  3 years ago.
+- Did contractual ambulance work at 3 years ago.
 - Did an interview with the journalist [[Leefa Hofferman]] about the atrocities in [[The Deep|Cloudbank Facility]]
 
 ## Unverified

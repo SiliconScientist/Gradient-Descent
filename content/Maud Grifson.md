@@ -8,4 +8,3 @@ status: unknown
 
 ## Unverified
 - Associated with the [[Void Walkers]]
-- [[The Minotaur]] claims that Maud Grifson is a parasite

@@ -3,7 +3,7 @@ type: location
 scale: site
 ---
 ## Description
-- A seed black market
+- A seedy black market
 
 ## Facts
 - 

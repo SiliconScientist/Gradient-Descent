@@ -18,3 +18,6 @@ scale: site
 
 ## Unverified
 - Time is faster within the facility
+- There are hostile singing androids in robes dwelling in The Deep
+	- Sources:
+		- Finnerdy
