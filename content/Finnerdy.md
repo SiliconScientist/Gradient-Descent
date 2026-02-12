@@ -12,7 +12,7 @@ status: alive
 ## Unverified
 - Claims to have had a daughter named [[Sandra]]
 - Claims [[Sandra]] died of leukemia
-- Claims [[Project Endymion]] holds the key to bringing [[Sandra]] back to life
-- Claims [[Project Endymion]] is based on [[Floor 3 — Factory]]
+- Claims [[support_material/gradient_descent/campaign_bible/Project Endymion]] holds the key to bringing [[Sandra]] back to life
+- Claims [[support_material/gradient_descent/campaign_bible/Project Endymion]] is based on [[Floor 3 — Factory]]
 - Claims there are singing androids in robes in [[The Deep]]
 - 

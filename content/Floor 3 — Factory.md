@@ -9,5 +9,5 @@ scale: zone
 - [[Section 3.4 — ???]]
 
 ## Unverified
-- Base of operations for [[Project Endymion]]
+- Base of operations for [[support_material/gradient_descent/campaign_bible/Project Endymion]]
 - 

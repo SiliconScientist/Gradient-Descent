@@ -2,15 +2,11 @@
 type: assertion
 status: unverified
 ---
-Assertion:
+## Assertion
 - The [[Wunderkind]] possesses tools capable of killing [[Monarch]].
 
-Sources:
+## Sources
 - [[Arcady]]
 
-Status:
+## Status
 - Unverified
-
-Implications:
-- [[The Erasers]] may seek The Wunderkind
-- Monarch may be in danger
