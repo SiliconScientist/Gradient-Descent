@@ -9,5 +9,5 @@ type: unit
 	- [[Pvt. Corin]]
 	- [[Pvt. Rick]]
 	- [[Finnerdy]]
-	- [[Hostage Deal|The remaining members were returned to The Blockade]]
+	- [[Mission — Hostage Deal|The remaining members were returned to The Blockade]]
 - 

@@ -3,12 +3,12 @@ type: character
 status: alive
 ---
 ## Facts
-- Tasked [[Marek Sol]], [[Finnerdy]], and [[Dr. Clarise Schneider]] with killing [[The Minotaur]]
-- Tasked [[Operation — Copy Killroy|The Erasers with infiltrating Blockade leadership]]
-- Has the ability to:
+- [[Mission — Copy Killroy|Tasked The Erasers with infiltrating Blockade leadership]]
+- [[Mission — Kill The Minotaur|Tasked the Erasers with killing The Minotaur]]
+- Capabilities:
 	- Manipulate communication channels
 	- Feed video in visor HUDs
-- Create [[Infiltrators]]
+	- Create [[Infiltrators]]
 
 ## Unverified
 - Is working on [[Project Endymion]]
