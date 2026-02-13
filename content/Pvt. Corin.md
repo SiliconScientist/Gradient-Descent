@@ -8,5 +8,4 @@ status: dead
 ## Facts
 - Member of [[Squad 4]] of the [[Troubleshooters]]
 - Rank: private
-- Tried to kill [[The Erasers]] when [[Monarch]] showed her footage of The Erasers killing [[Commander Rachel Killroy]]
-- Killed by [[Finnerdy]]
+- [[Incident — Corin Attacks the Erasers|Killed by Finnerdy when she attacked The Erasers]]

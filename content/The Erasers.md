@@ -14,7 +14,7 @@ type: unit
 - [[Finnerdy]]:
 ## Property
 - [[The Penetrator]]
-- [[The Dinghy]]
+- [[Dinghy]]
 
 ## Unverified
 - Two members of The Erasers are trying to kill the rest of the members.

@@ -4,4 +4,4 @@ status: dead
 ---
 ## Facts
 - Member of [[Squad 4]] of the [[Troubleshooters]]
-- Killed by [[Finnerdy]]
+- [[Incident — Corin Attacks the Erasers|Killed by Finnerdy when Pvt. Corin attacked The Erasers]]
