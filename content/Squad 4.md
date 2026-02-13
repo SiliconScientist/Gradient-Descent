@@ -5,9 +5,9 @@ type: unit
 - Squad 4 was a group of 10 [[Troubleshooters]] tasked with placing a radio transmitter on [[support_material/gradient_descent/campaign_bible/Floor 3 — Factory|Floor 3 — Factory]]
 - [[Finnerdy]] destroyed the radio transmitter
 - Members:
-	- Cpt. Myles Vance
+	- [[Cpt. Myles Vance]]
 	- [[Pvt. Corin]]
-	- Pvt. Rick
-	- Pvt. [[Finnerdy]]
-	- [[The Erasers]] returned 6 members to [[The Blockade]]
+	- [[Pvt. Rick]]
+	- [[Finnerdy]]
+	- [[Hostage Deal|The remaining members were returned to The Blockade]]
 - 
