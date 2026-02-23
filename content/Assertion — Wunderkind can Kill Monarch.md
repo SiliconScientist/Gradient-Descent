@@ -6,7 +6,7 @@ status: unverified
 - The [[Wunderkind]] possesses tools capable of killing [[Monarch]].
 
 ## Sources
-- [[Arcady]]
+- [[support_material/gradient_descent/campaign_bible/Arcady]]
 
 ## Status
 - Unverified

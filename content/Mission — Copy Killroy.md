@@ -3,7 +3,7 @@ type: mission
 status: unconfirmed
 ---
 ## Facts
-- [[Monarch]] tasked [[The Erasers]] with planting an [[Infiltrators|infiltrator]] version of [[Commander Rachel Killroy]] on [[The Blockade]]
+- [[Monarch]] tasked The [[Erasers]] with planting an [[Infiltrators|infiltrator]] version of [[Commander Rachel Killroy]] on The [[Blockade]]
 - The Erasers left the coffin containing Commander Killroy's infiltrator on The Blockade
 
 ## Unverified

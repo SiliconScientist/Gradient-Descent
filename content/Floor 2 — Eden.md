@@ -11,5 +11,5 @@ scale: zone
 
 ## Unverified
 - There are two factions on this floor:
-	- [[The Chosen]]
-	- [[The Fallen]]
+	- The [[Chosen]]
+	- The [[Fallen]]

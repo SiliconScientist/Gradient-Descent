@@ -6,6 +6,6 @@ status: alive
 - Android
 
 ## Facts
-- Member of [[The Erasers]]
-- Had an arm replaced by [[The Minotaur]]
+- Member of The [[Erasers]]
+- Had an arm replaced by The [[Minotaur]]
 - 
