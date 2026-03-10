@@ -6,5 +6,5 @@ status: alive
 - Insect man
 
 ## Facts
-- Dockmaster on [[Prosperous Dream]]
+- Dockmaster on [[Prospero's Dream]]
 - 

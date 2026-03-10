@@ -1,10 +1,11 @@
 ---
 type: mission
-status: ongoing
+status: failed
 ---
 ## Facts
 - [[Captain Taso Hendrix]] has agreed that The [[Erasers]] may have safe passage though The [[Blockade]] if they can safely return 15 [[Troubleshooters|troubleshooters]], and [[Dr. Clarise Schneider|Dr. Schneider]] back into the hands of The Blockade
 - 6 troubleshooters from [[Squad 4]] have been returned safely to The Blockade
+- This mission was failed after The Erasers let a month and a half pass
 
 ## Unverified
 - The 8 troubleshooters on The [[Penetrator]] might qualify as rescues

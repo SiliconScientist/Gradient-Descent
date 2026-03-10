@@ -3,7 +3,7 @@ type: location
 scale: zone
 ---
 ## Rooms
-- [[Wrecked Bathroom]]
+- [[Executive Washroom]]
 
 ## Facts
 - [[Old Man Tristan]] knows the code to the airlock going south of the [[Fancy Lounge]]
@@ -13,3 +13,4 @@ scale: zone
 - There are two factions on this floor:
 	- The [[Chosen]]
 	- The [[Fallen]]
+- The [[Labyrinth]]

@@ -14,3 +14,6 @@ status: alive
 - Is working on [[Project Endymion]]
 	- Sources:
 		- Finnerdy via Monarch
+- Sees [[Mission — Establish Interfloor Communications]] as a threat
+	- Sources:
+		- Commanded Finnerdy to foil the mission's objectives

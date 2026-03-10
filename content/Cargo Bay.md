@@ -6,4 +6,4 @@ scale: room
 - Home of [[Head Hunter]]
 
 ## Unverified
-- Claims that there's an entity known as the [[Mind Thief]]
+- 

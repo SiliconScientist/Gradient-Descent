@@ -8,7 +8,7 @@ status: alive
 	- Sources:
 		- [[Evidence — Executive Papers]]
 - In possession of several decapitated human heads:
-	- [[Cpt. Myles Vance]]
+	- [[Captain Myles Vance]]
 	- Several Unknown
 - Current code name: Luna
 - 

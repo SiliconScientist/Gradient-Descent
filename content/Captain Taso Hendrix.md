@@ -3,7 +3,8 @@ type: character
 status: alive
 ---
 ## Facts
-- Has an ongoing [[Mission — Hostage Deal|hostage deal with The Erasers]]
+- Had a [[Mission — Hostage Deal|hostage deal with The Erasers that fell through]]
+- Put [[Commander Petracoff]] into power
 
 ## Unverified
-- Is the current leader of The [[Blockade]]
+- 

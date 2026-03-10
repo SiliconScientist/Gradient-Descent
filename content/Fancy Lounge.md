@@ -3,9 +3,9 @@ type: location
 scale: room
 ---
 ## Passages
-- Eastern doorway -> [[Wrecked Bathroom]]
-- Southern airlock ->  ???
+- Eastern doorway -> [[Executive Washroom]]
+- Southern airlock ->  The Taut Skin Statuary
 
 ## Facts
 - Located on [[Floor 2 — Eden]]
-- [[Old Man Tristan]] knows the code to to the southern airlock
+- The southern airlock code is "6767"

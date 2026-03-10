@@ -5,7 +5,9 @@ status: alive
 ## Facts
 - Is a trained medical professional
 - Member of The [[Erasers]]
-- Has an alter ego ([[Maud Grifson]])
+- Has multiple alter egos 
+	- [[Maud Grifson]]
+	- [[Sasha Ulgdova]]
 - Has a frightened condition of when his medical patients die on him
 - Current code name: Condor
 

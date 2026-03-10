@@ -6,6 +6,6 @@ scale: room
 - 
 
 ## Unverified
-- A [[Wunderkind]] lives here
+- The [[Mind Thief]] lives here
 	- Sources: 
 		- Arcady

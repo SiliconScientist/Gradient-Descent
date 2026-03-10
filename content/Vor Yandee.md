@@ -3,5 +3,5 @@ type: character
 status: alive
 ---
 ## Facts
-- The current leader (AKA "Vor") of [[Prosperous Dream]]
+- The current leader (AKA "Vor") of [[Prospero's Dream]]
 - 

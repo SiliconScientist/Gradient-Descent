@@ -2,9 +2,13 @@
 type: character
 status: alive
 ---
+## Description
+An old [[Divers|diver]]
+
 ## Facts
-- Knows the code to the airlock going south of The Fancy Lounge on [[Floor 2 — Eden]]
+- Knows the code to the airlock going south of the [[Fancy Lounge]]
+- Spoke with [[Arcady]] at some point
 
 ## Unverified
-- He's just in The [[Deep]] for looting
+- His sole motive is looting
 - 

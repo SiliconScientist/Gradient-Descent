@@ -7,6 +7,11 @@ type: polity
 ## Facts
 - Headquarters of the [[Troubleshooters]]
 
+## Members
+- [[Commander Petracoff]]
+- [[Captain Clouse Olhelm]]
+- 
+
 ## Unverified
 - In political turmoil
 	- Sources:

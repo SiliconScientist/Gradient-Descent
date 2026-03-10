@@ -1,17 +1,20 @@
 ---
 type: unit
 ---
+## Description
+A group of [[Divers]]
+
 ## Members
-- [[Mac Philis]]:
-- [[Gebb Henderson]]:
-- [[Jarek Dysar]]:
-- [[Dr. Faelin Leifson]]:
+- [[Mac Philis]]
+- [[Gebb Henderson]]
+- [[Jarek Dysar]]
+- [[Dr. Faelin Leifson]]
 - [[Marek Sol]]
 - [[Dima Darkstar]]
 - [[Reesha]]
 - [[Sinead]]
 - [[Dr. Clarise Schneider]]
-- [[Finnerdy]]:
+- [[Finnerdy]]
 ## Property
 - The [[Penetrator]]
 - [[Dinghy]]

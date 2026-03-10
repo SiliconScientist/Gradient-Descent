@@ -5,4 +5,4 @@ status: dead
 ## Facts
 - A diver
 - Member of the [[13 Miners]]
-- Believed himself to be an infiltrator, but was in fact a human
+- [[Tetsuo]] believed he was an android, likely due to prolonged exposure to The [[Bends]]

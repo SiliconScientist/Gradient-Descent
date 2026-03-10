@@ -6,4 +6,4 @@ scale: room
 A nice bar
 
 ## Facts
-- Location in [[Prosperous Dream]]
+- Location in [[Prospero's Dream]]
