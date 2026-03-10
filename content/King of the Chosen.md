@@ -7,6 +7,7 @@ A small android in a black jumpsuit and wearing an oxygen mask that amplifies hi
 
 ## Facts
 - Leader of The [[Chosen]]
+- Tasked [[Mission — Kill The Minotaur|The Erasers with killing The Minotaur]]
 - He's a coward:
 	- Sources:
 		- Hid behind his throne when Dima shouted at him

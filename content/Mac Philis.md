@@ -1,6 +1,7 @@
 ---
 type: character
-status: dead
+status: alive
 ---
 ## Facts
-- A [[Divers|diver]]
+- Trained marine
+- 
