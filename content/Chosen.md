@@ -13,6 +13,7 @@ type: faction
 - Cultural norms:
 	- Conformist
 	- Avoid negative affect
+	- Hate towards the [[Fallen]]
 - Those that deviate from cultural norms are sent to The [[Butcher]] for "correction"
 
 ## Unverified

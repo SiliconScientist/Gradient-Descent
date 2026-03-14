@@ -2,5 +2,9 @@
 type: mystery
 ---
 ## Description
-- What caused the fall of [[Deep|Cloudbank Facility]]?
+[[Deep|Cloudbank Facility]] has fallen to ruin.
+
+## Questions
+- Was this an accident, or perpetrated by outside entities?
+- 
 

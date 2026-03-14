@@ -2,7 +2,7 @@
 type: entity
 ---
 ## Description
-Holograms caught in the infinite loop of their past
+Holograms caught in an infinite loop of their past
 
 ## Facts
 - Intangible

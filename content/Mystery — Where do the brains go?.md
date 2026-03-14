@@ -2,13 +2,17 @@
 type: mystery
 ---
 ## Description
-Is the acquisition of brains part of a larger scheme?
+[[Mission — Retrieve Brains|Head Hunter is willing to pay for human brains]]
+
+## Questions
+- Is it actually the [[Minotaur]] that wants the brains?
+- 
 
 ## Facts
-- [[Mission — Retrieve Brains|Head Hunter tasked The Erasers with retrieving 5 human brains]]
+- 
 - 
 
 ## Unverified
-- The brains are for The [[Minotaur]]
+- The brains are for the Minotaur
 	- Sources:
 		- Head Hunter

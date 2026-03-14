@@ -6,3 +6,6 @@ type: faction
 
 ## Unverified
 - Captured ships of The [[Union]]
+- Is the employer of the [[Erasers]]
+	- Sources:
+		- Vor Yandee
