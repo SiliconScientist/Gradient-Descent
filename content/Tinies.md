@@ -6,7 +6,9 @@ type: unit
 
 ## Members
 - Leader: [[Crunglefuck]]
-- 2 other members
+- 2 other members:
+	- [[Leet]]
+	- TBD
 
 ## Facts
 - 

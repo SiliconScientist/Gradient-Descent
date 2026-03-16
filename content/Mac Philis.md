@@ -1,6 +1,6 @@
 ---
 type: character
-status: alive
+status: dead
 ---
 ## Facts
 - Trained marine

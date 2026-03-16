@@ -1,13 +1,14 @@
 ---
 type: character
-status: alive
+status: dead
 ---
 ## Description
 ## Facts
 - Former member of [[Squad 4]] of the [[Troubleshooters]]
-- Member of the The [[Erasers]]
+- Former member of the The [[Erasers]]
 - Father of [[Sandra]]
 - Likes churros
+- Killed in the [[Incident — Tinies False Start|first encounter with the Tinies]]
 ## Unverified
-- His main goal is to find [[Project Endymion]] and resurrect Sandra
+- His main goal was to find [[Project Endymion]] and resurrect Sandra
 - 

@@ -1,6 +1,6 @@
 ---
 type: character
-status: alive
+status: dead
 ---
 ## Description
 - Completely clothed, no skin showing.
@@ -9,3 +9,4 @@ status: alive
 - Trained pilot
 - Piloting The [[Penetrator]] for 3 kcr / month
 - Speaks an old earthen language
+- Killed in the [[Incident — Botched Ousting|Botched Ousting]]
