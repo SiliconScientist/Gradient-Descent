@@ -11,10 +11,10 @@ Old Earth mythological motifs are scattered throughout The [[Deep]].
 
 ## Facts
 - [[Monarch]] created a rendition of "The Last Supper" (Biblical)
-- There is a project with the name "[[Project Endymion|Endymion]]" (Greek)
+- There is a project with the name "[[Project — Endymion|Endymion]]" (Greek)
 - The second floor is called "[[Floor 2 — Eden|Eden]]" which contains a "[[Garden of Eden]]" (Biblical)
 - The fourth floor is called "[[Floor 4 — Hel|Hel]]" (Norse)
-- An entity known as the [[Minotaur]] lives in the [[Labyrinth]] (Greek)
+- An entity known as the [[support_material/gradient_descent/campaign_bible/Minotaur]] lives in the [[Labyrinth]] (Greek)
 - There is an AI known as "[[Silas]]" (Biblical)
 - There has been an instance of crucifixion (Biblical):
 	- [[Captain Myles Vance]]

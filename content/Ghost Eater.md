@@ -4,5 +4,7 @@ status: alive
 ---
 ## Facts
 - Lives on The [[Bell]]
-- Willing to pay for [[Ghosts]]
+- Willing give information for [[Ghosts]]
 - Is a cyborg
+- Owes the [[Erasers]] a question
+- 

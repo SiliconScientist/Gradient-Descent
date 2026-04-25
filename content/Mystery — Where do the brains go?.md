@@ -5,7 +5,7 @@ type: mystery
 [[Mission — Retrieve Brains|Head Hunter is willing to pay for human brains]]
 
 ## Questions
-- Is it actually the [[Minotaur]] that wants the brains?
+- Is it actually the [[support_material/gradient_descent/campaign_bible/Minotaur]] that wants the brains?
 - 
 
 ## Facts

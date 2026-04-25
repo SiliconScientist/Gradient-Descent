@@ -2,6 +2,8 @@
 type: faction
 ---
 ## Facts
+- Distributes [[Sycorax]] for the [[Novia Bratva]]
+- 
 
 ## Unverified
-- Allies with The [[Novia Bratva]]
+- 

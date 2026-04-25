@@ -6,11 +6,13 @@ type: unit
 
 ## Members
 - Leader: [[Crunglefuck]]
-- 2 other members:
-	- [[Leet]]
-	- TBD
+- [[Leet]]
+- [[Mini]]
 
 ## Facts
+- Command an army of various drones:
+	- [[Botflies]]
+	- [[Torbjørns]]
 - 
 ## Unverified
 - 

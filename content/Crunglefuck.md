@@ -1,8 +1,9 @@
 ---
 type: character
-status: alive
+status: dead
 ---
 ## Facts
-- 
+- Killed by [[Monarch]]
+- Body was left in the [[Fallen Slums]]
 ## Unverified
 - 

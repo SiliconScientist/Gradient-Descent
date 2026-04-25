@@ -10,5 +10,5 @@ status: dead
 - Likes churros
 - Killed in the [[Incident — Tinies False Start|first encounter with the Tinies]]
 ## Unverified
-- His main goal was to find [[Project Endymion]] and resurrect Sandra
+- His main goal was to find [[Project — Endymion]] and resurrect Sandra
 - 

@@ -13,8 +13,8 @@ scale: site
 
 ## Facts
 - The Deep was once Cloudbank Synthetics Production Facility
-- There appears to be rat worship in the deep
-- There are time warping effects in the deep
+- There appears to be [[Rat Worship]] in the Deep
+- Evidence of [[Warped Time]] within the Deep
 
 ## Unverified
 - Time is faster within the facility

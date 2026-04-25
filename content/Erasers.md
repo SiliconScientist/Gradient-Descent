@@ -9,7 +9,7 @@ A group of [[Divers]]
 - [[Dr. Faelin Leifson]]
 - [[Marek Sol]]
 - [[Reesha]]
-- [[Sinead]]
+- [[Sinead Opfern]]
 - [[Dr. Clarise Schneider]]
 ## Former members
 - [[Dima Darkstar]]

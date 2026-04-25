@@ -1,10 +1,11 @@
 ---
 type: location
-scale: unknown
+scale: zone
 ---
-## Unverified
+
+## Facts
 - Located on [[Floor 2 — Eden]]
-- An ever-shifting landscape:
-	- Sources:
-		- King of the Chosen
+## Unverified
+- Travel between rooms is randomized
+- The [[Fallen]] believe that smearing [[Pseudo-milk]] on one's body will reduce the odds of random encounters within the Labyrinth
 - 

@@ -1,6 +1,6 @@
 ---
 type: mission
-status: unconfirmed
+status: failed
 ---
 ## Facts
 - [[Monarch]] tasked The [[Erasers]] with planting an [[Infiltrators|infiltrator]] version of [[Commander Rachel Killroy]] on The [[Blockade]]

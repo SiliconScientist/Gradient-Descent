@@ -11,7 +11,7 @@ status: alive
 	- Create [[Infiltrators]]
 
 ## Unverified
-- Is working on [[Project Endymion]]
+- Is working on [[Project — Endymion]]
 	- Sources:
 		- Finnerdy via Monarch
 - Sees [[Mission — Establish Interfloor Communications]] as a threat

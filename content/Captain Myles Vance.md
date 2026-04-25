@@ -7,4 +7,4 @@ status: dead
 - Rank: Captain
 - Killed by unknown entity/entities and crucified in the [[Industrial Kitchen]].
 	- Nailed to the cross via android fingers
-- Head  was cut off postmortem by [[Sinead]]
+- Head  was cut off postmortem by [[Sinead Opfern]]

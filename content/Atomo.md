@@ -7,6 +7,7 @@ status: dead
 
 ## Facts
 - Trained pilot
-- Piloting The [[Penetrator]] for 3 kcr / month
-- Speaks an old earthen language
+- Was hired by the [[Erasers]] to pilot the [[Dinghy]] 3 kcr / month
+- Spoke an old earthen language
+- Was a secret undercover cop trying to arrest [[Dima Darkstar]]
 - Killed in the [[Incident — Botched Ousting|Botched Ousting]]

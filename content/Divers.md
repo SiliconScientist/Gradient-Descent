@@ -14,3 +14,6 @@ type: entity
 - The [[Blood Bituminous]]
 - The [[Tinies]]
 - [[Killroy's Memory]]
+
+## Facts
+- Divers are being lured to the Deep by Monarch

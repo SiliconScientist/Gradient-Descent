@@ -14,4 +14,4 @@ status: alive
 ## Stats
 - Conditions:
 	- Phobias:
-		- The [[Minotaur]]: When encountering this phobia, make a Fear \[-] Save or gain 1d5 stress
+		- The [[support_material/gradient_descent/campaign_bible/Minotaur]]: When encountering this phobia, make a Fear \[-] Save or gain 1d5 stress
