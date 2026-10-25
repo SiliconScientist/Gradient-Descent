@@ -74,11 +74,11 @@ The checked-in [GitHub Actions workflows](../.github/workflows/) are inherited f
 
 The repository does not establish the campaign site's production branch, Cloudflare build settings, or whether publishing is automatic. Those settings must be checked in the existing Cloudflare project before changing deployment behavior. The bundled [hosting guide](hosting.md) describes Quartz's supported setup, not a verified record of this site's deployment configuration.
 
-The current configuration also retains `pageTitle: "Quartz 4"` and `baseUrl: "quartz.jzhao.xyz"`, and the layout retains upstream footer links. The title, canonical domain used by generated metadata, and footer have not yet been tailored to the campaign. `content/index.md` is currently empty.
+The current configuration also retains `pageTitle: "Quartz 4"` and `baseUrl: "quartz.jzhao.xyz"`, and the layout retains upstream footer links. The title, canonical domain used by generated metadata, and footer have not yet been tailored to the campaign. `content/index.md` provides the campaign welcome. `quartz/components/CampaignDirectory.tsx` adds an alphabetical directory grouped by note type, generated from published notes at build time. These navigation links stay outside the graph index so the homepage does not connect every note to every other note.
 
 ## Project customizations
 
-- **Graph placement and readability:** `quartz.layout.ts` moves the built-in graph from the sidebar to the center column above each note on desktop. Local graphs extend two links from the current note; local and global settings increase spacing, label size, and label visibility relative to the component defaults.
+- **Graph placement and readability:** `quartz.layout.ts` moves the built-in graph from the sidebar to the center column above each note on desktop. The homepage hides this graph and shows the note directory instead. Local graphs extend two links from the current note; local and global settings increase spacing, label size, and label visibility relative to the component defaults.
 - **Page organization:** the explorer, search, and reading controls stay on the left, with backlinks and the desktop table of contents on the right. The campaign's named entries and cross-links support browsing by subject rather than session date.
 - **Campaign information structure:** note types, mission and incident prefixes, source annotations, and separate facts and reports provide a shared vocabulary for updating the dossier.
 - **Styling limitation:** [custom.scss](../quartz/styles/custom.scss) contains graph-edge CSS selectors, but the current graph draws edges on a PixiJS canvas. Those rules do not change the rendered edges; they are not an active visual customization.

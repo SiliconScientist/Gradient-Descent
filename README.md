@@ -9,9 +9,9 @@ The wiki preserves our shared campaign dossier: the characters we met, places we
 ## Quickstart: explore the wiki
 
 1. **[Open the website](https://gradient-descent.pages.dev/).** You can read it in your browser without an account or installation.
-2. **Find a subject.** Use Search to look up a character, location, or clue, or browse the entries in Explorer.
+2. **Find a subject.** Browse the grouped directory on the homepage and choose a note. Use Search to look up a character, location, or clue, or browse Explorer.
 3. **Follow the connections.** Select a link within a note to open a related entry. The Backlinks section lists other notes that mention the subject.
-4. **Explore the graph on desktop.** Dots represent entries, and lines show links between them. Drag or zoom to explore, select a dot to open its note, or use the graph's expand button to view the whole network.
+4. **Explore a note’s graph on desktop.** Dots represent entries, and lines show links between them. Drag or zoom to explore, select a dot to open its note, or use the graph's expand button to view the whole network.
 
 Notes separate **Facts** from **Unverified** reports, preserving what the group learned and what remained unresolved. A link between two entries shows a connection, not proof that a report is true.
 

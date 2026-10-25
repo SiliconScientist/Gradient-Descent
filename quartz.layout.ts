@@ -1,11 +1,12 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import CampaignDirectory from "./quartz/components/CampaignDirectory"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [CampaignDirectory()],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -21,11 +22,11 @@ const BIG_GRAPH = Component.Graph({
     drag: true,
     zoom: true,
     depth: 2,
-    scale: 1.15,        // bigger initial zoom
-    repelForce: 9.87,    // spread nodes out more
-    centerForce: 0.33,  // keep network centered
-    linkDistance: 55,   // increase spacing to reduce label overlap
-    fontSize: 1.05,     // show readable labels next to nodes
+    scale: 1.15, // bigger initial zoom
+    repelForce: 9.87, // spread nodes out more
+    centerForce: 0.33, // keep network centered
+    linkDistance: 55, // increase spacing to reduce label overlap
+    fontSize: 1.05, // show readable labels next to nodes
     opacityScale: 3.0, // keep labels visible at wider zooms
   },
 
@@ -33,12 +34,12 @@ const BIG_GRAPH = Component.Graph({
   globalGraph: {
     drag: true,
     zoom: true,
-    depth: -1,          // global graph
-    scale: 1.0,         // slightly zoomed in
-    repelForce: 9.87,   // spread nodes out more (important for global)
+    depth: -1, // global graph
+    scale: 1.0, // slightly zoomed in
+    repelForce: 9.87, // spread nodes out more (important for global)
     centerForce: 0.33,
-    linkDistance: 75,   // more spacing for dense graphs
-    fontSize: 1.0,      // readable labels
+    linkDistance: 75, // more spacing for dense graphs
+    fontSize: 1.0, // readable labels
     opacityScale: 3.0,
   },
 })
@@ -56,7 +57,10 @@ export const defaultContentPageLayout: PageLayout = {
 
     // Put the graph in the center column, above the content.
     // DesktopOnly keeps mobile from getting swamped.
-    Component.DesktopOnly(BIG_GRAPH),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(BIG_GRAPH),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
   left: [
     Component.PageTitle(),
